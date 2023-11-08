@@ -32,7 +32,7 @@ Sync Across Devices: The app syncs seamlessly across multiple devices, ensuring 
 Security and Privacy: User data is securely stored and protected, assuring privacy and data integrity.
 ## Authors
 
-- [@rohit-shinde-26](https://github.com/rohit-shinde-26)
+- [@dhanrajgaikwad89](https://github.com/dhanrajgaikwad89)
 
 
 ## 🛠 Skills
