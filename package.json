@@ -31,10 +31,10 @@
     "type": "git",
     "url": "git+https://github.com/rohit-shinde-26/To_Do_app_ReactJs.git"
   },
-  "author": "Rohit",
+  "author": "Dhanraj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohit-shinde-26/To_Do_app_ReactJs/issues"
+    "url": "https://github.com/dhanrajgaikwad89/To_Do_app_ReactJs"
   },
-  "homepage": "https://github.com/rohit-shinde-26/To_Do_app_ReactJs#readme"
+  "homepage": "https://github.com/dhanrajgaikwad89/To_Do_app_ReactJs"
 }

@@ -55,7 +55,7 @@ function App() {
             {/* Task Manager */}
             My Tasks
           </h1>
-
+         {/* for dark/white theme  */}
           {darkTheme ? (
             <MdSunny
               onClick={toggleTheme}
